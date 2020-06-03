@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Boruto",
+        "price": "$1.99",
+        "description": "Boruto is the son of Naruto Uzimaki and is the next generation of shinobi",
+        "image": "images/boruto_react.jpeg",
+        "genre": "Shonen"
+
+    },
+
+    {
+        "name": "Demon Slayer",
+        "price": "$1.99",
+        "description": "Tanjiro in the oldest of 8 children. He had to go to town to sell wood and came back home the next day to see his family was killed by a demon.",
+        "image": "images/demon.jpeg",
+        "genre": "Shonen"
+    },
+
+    {
+        "name": "My Hero Academia",
+        "price": "$1.99",
+        "description": "In a world where people have super hero powers, Deku was born with out one and became the greatest hero. Here's how he did it.",
+        "image": "images/mha react.jpeg",
+        "genre": "Shonen"
+    },
+        {
+        "name": "HunterXHunter",
+        "price": "$1.99",
+        "description": "Gon is a young boy that explore the world and becomes a Hunter.",
+        "image": "images/hunter.jpeg",
+        "genre": "Adventure"
+    }, 
+       {
+        "name": "Seven Deadly Sins",
+        "price": "$1.99",
+        "description": "Meliodas the Captain of the Seven Deadly sins has to take over the world for the sake of the kingdom.",
+        "image": "images/seven.jpeg",
+        "genre": "Adventure"
+    },  
+    
+    {
+        "name": "Bleach",
+        "price": "$1.99",
+        "description": "Part-time student, full-time Soul Reaper, Ichigo is one of the chosen few guardians of the afterlife.",
+        "image": "images/bleach_react.jpeg",
+        "genre": "Dark"
+    },  
+    
+    {
+        "name": "Attack on Titans",
+        "price": "$1.99",
+        "description": "Humans must survive the world apocolpse.",
+        "image": "images/attack_on_react.jpeg",
+        "genre": "Dark"
+    }, 
+    
+    {
+        "name": "JoJo's Bizarre Adventures",
+        "price": "$1.99",
+        "description": "A multigenerational tale of the heroic Joestar family and their never-ending battle against evil!",
+        "image": "images/jojo_react.jpeg",
+        "genre": "Adventure"
+    }, 
+    
+    {
+        "name": "One Piece",
+        "price": "$1.99",
+        "description": "Join Monkey D. Luffy and his swashbuckling crew in their search for the ultimate treasure, the One Piece.",
+        "image": "images/onepiece_react.jpeg",
+        "genre": "Shonen"
+    },  
+    
+    {
+        "name": "One-Punch Man",
+        "price": "$1.99",
+        "description": "Life gets pretty boring when you can beat the snot out of any villain with just one punch.",
+        "image": "images/onepunch_react.jpeg",
+        "genre": "Shonen"
+    },  
+    
+    {
+        "name": "Dragon Ball Super",
+        "price": "$1.99",
+        "description": "Goku's adventure from the best-selling manga Dragon Ball continues!",
+        "image": "images/dbsuper.jpeg",
+        "genre": "Adventure"
+    },   
+    
+    {
+        "name": "Death Note",
+        "price": "$1.99",
+        "description": "When Light Yagami finds a notebook giving him power over death, will he use it for good—or evil?",
+        "image": "images/deathnote_react.jpeg",
+        "genre": "Dark"
+    }
+]

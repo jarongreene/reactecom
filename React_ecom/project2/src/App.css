@@ -1,0 +1,221 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+  }
+
+  body{
+      background-color: orange;
+  }
+  
+
+.navbar {
+  background: black;
+  color: #fff;
+  overflow: auto;
+}
+
+.navbar a {
+  color: #fff;
+}
+
+.navbar h1{
+  float: left;
+  padding-top: 20px;
+}
+
+.nav ul{
+  float: right;
+}
+
+.navbar ul li{
+  list-style-type: none;
+float: right;
+}
+
+.navbar ul li a{
+  display: block;
+  padding: 20px;
+  text-align: center;
+}
+
+
+/* Creating a nav barv with hover and to show current location where youre at on the website */
+.navbar ul li a:hover,
+.navbar ul li a.current{
+  background: black;
+  color: red;
+}
+
+/*Home Page CSS*/
+
+#h2-text {
+  text-align: center;
+  font-size: 45px;
+}
+
+#slideshow{
+  display: block;
+  margin: 0 auto;
+}
+
+.manga-container{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  
+}
+
+
+
+.manga-block1 {
+  padding: 45px;
+  border: 5px gray solid;
+  margin-top: 10px;
+
+}
+
+.manga-block2{
+  padding: 45px;
+  border: 5px gray solid;
+  margin-top: 10px;
+
+}
+
+.manga-block3{
+  padding: 45px;
+  border: 5px gray solid;
+  margin-top: 10px;
+
+}
+
+.red{
+  background-color: red;
+}
+
+.gray{
+  background-color: gray;
+}
+
+.about-us{
+  padding-left: 20px;
+}
+
+
+
+
+
+/* Product Page*/
+
+.grid-container {
+
+  display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+  grid-row-gap: 1rem;
+ }
+ 
+ 
+
+
+.img-manga1{
+  height: 400px;
+}
+
+
+.img-manga2{
+  height: 400px;
+}
+
+.img-manga3{
+  height: 400px;
+}
+
+.img-manga4{
+  height: 400px;
+}
+
+.img-manga5{
+  height: 400px;
+}
+
+.img-manga6{
+  height: 400px;
+}
+
+.img-manga7{
+  height: 400px;
+}
+
+.img-manga8{
+  height: 400px;
+}
+
+.img-manga9{
+  height: 400px;
+}
+
+.img-manga10{
+  height: 400px;
+}
+
+.img-manga11{
+  height: 400px;
+}
+
+.img-manga12{
+  height: 400px;
+}
+
+/* Contact page*/
+
+  /* contact form */
+  #contact-form .form-group{
+      margin-bottom: 10px;
+}
+
+  #contact-form label{
+      display: block;
+      margin-bottom: 5px;
+  }
+
+  #contact-form input,
+  #contact-form textarea{
+      width: 100%;
+      padding: 10px;
+      border: 1px #ddd solid;
+  }
+
+  #contact-form textarea{
+      height: 200px;
+  }
+
+  #contact-form input:focus,
+  #contact-form textarea:focus{
+      outline: none;
+      border-color: #f7c08f;
+  }
+
+  .bg-dark{
+      background: black;
+      color: #ffffff;
+      display: block;
+  }
+
+  .py-3{padding-top: 30px 0;}
+
+
+
+/* footer */
+#main-footer {
+  text-align: center;
+  background: black;
+  color: #fff;
+  padding: 20px;
+}
+
+#main-footer a {
+  color: #fff;
+}
